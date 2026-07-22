@@ -32,7 +32,7 @@ APIs en **.NET (C#) + PostgreSQL**, contenerizadas con **Docker** y desplegadas 
 - **[portafolio-frontend](https://github.com/Alesissss/portafolio-frontend)** — SPA en React 19 + Vite + TypeScript (TanStack Query, Zod) que consume la API.
 - **Detección de somnolencia con Deep Learning** *(tesis)* — modelo multimodal (CNN/LSTM/ViT)
   para detectar fatiga del conductor a partir de señales EMG y visión por computador. Python.
-- **Turifast** *(en marcha)* — app móvil que genera itinerarios de viaje con IA para turistas en Lambayeque.
+- **Turifast** — app móvil que genera itinerarios de viaje con IA para turistas en Lambayeque.
 
 > 💼 **Experiencia en producción (código privado):** he construido y operado en solitario
 > sistemas de gestión empresarial multiempresa (RBAC, almacenamiento público/privado,
