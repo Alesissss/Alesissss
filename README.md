@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Jorge Alexis Torres Cabrejos 👋</h1>
+<h1 align="center">Hola, soy Jorge Alexis Torres Cabrejos👋</h1>
 
 <p align="center">
   <b>Desarrollador Backend .NET / C# + DevOps</b> · Ingeniería de Sistemas (último año) · 📍 Chiclayo, Perú
@@ -67,7 +67,7 @@
 | [**portafolio-backend**](https://github.com/Alesissss/portafolio-backend) | API REST multiempresa: JWT, RBAC por permisos, auditoría, soft-delete y pruebas con xUnit | `.NET 10` `PostgreSQL` `EF Core` `xUnit` |
 | [**portafolio-frontend**](https://github.com/Alesissss/portafolio-frontend) | SPA que consume la API, con validación de formularios y caché de datos | `React 19` `Vite` `TypeScript` `TanStack Query` `Zod` |
 | **VigilanceAI** *(tesis)* | Sistema **embebido multimodal de apoyo a la decisión**: evalúa a un operador antes de una tarea crítica y emite un dictamen **APTO / ATENCIÓN / NO APTO**. Tres módulos desacoplados por API REST (visión conductual, señales fisiológicas y fusión tardía), desplegable en edge. Detecté *data leakage* por sujeto en la métrica habitual de la literatura y publiqué solo el modelo honesto. | `PyTorch` `MediaPipe` `FastAPI` `PostgreSQL` `React` `Raspberry Pi 5` `Arduino` |
-| **Turifast** | App móvil que genera itinerarios de viaje personalizados con IA para turistas en Lambayeque | `Flutter` `API REST` `IA` |
+| **Turifast** | App móvil que genera itinerarios de viaje personalizados con IA para turistas en Lambayeque. Proyecto en equipo: migré el backend de Flask a FastAPI. | `Python` `FastAPI` `IA` |
 
 > 💼 **Experiencia en producción (código privado):** he construido y operado en solitario sistemas
 > de gestión empresarial multiempresa (RBAC, almacenamiento público/privado, API versionada)
@@ -83,15 +83,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 > Certificándome en **Azure** (AZ-900 → AZ-204) y replicando mi arquitectura de referencia en otros stacks (FastAPI, Spring) para comparar decisiones de diseño.
-
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alesissss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alesissss&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</p>
 
 ---
 
