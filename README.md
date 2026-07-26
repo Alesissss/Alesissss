@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Jorge Alexis Torres Cabrejos👋</h1>
+<h1 align="center">Hola, soy Jorge Alexis Torres 👋</h1>
 
 <p align="center">
   <b>Desarrollador Backend .NET / C# + DevOps</b> · Ingeniería de Sistemas (último año) · 📍 Chiclayo, Perú
@@ -54,7 +54,7 @@
 
 ### 🚀 Lo que hago
 
-- **APIs REST en .NET** con autenticación JWT, control de acceso por permisos (RBAC), multiempresa, auditoría, soft-delete y validación en backend (FluentValidation).
+- **APIs REST en .NET** con autenticación JWT, auditoría, soft-delete y validación en backend (FluentValidation). En sistemas de producción (código privado), además: control de acceso por permisos (RBAC) y arquitectura multiempresa.
 - **Ciclo DevOps completo yo solo:** contenerizar, desplegar en VPS Linux, Nginx como reverse proxy, certificados TLS, backups y CI/CD con GitHub Actions.
 - **Modelado de datos** relacional y lógica de negocio sobre PostgreSQL / SQL Server.
 
@@ -64,7 +64,7 @@
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [**portafolio-backend**](https://github.com/Alesissss/portafolio-backend) | API REST multiempresa: JWT, RBAC por permisos, auditoría, soft-delete y pruebas con xUnit | `.NET 10` `PostgreSQL` `EF Core` `xUnit` |
+| [**portafolio-backend**](https://github.com/Alesissss/portafolio-backend) | API REST de un **sistema transaccional (TPS)** de gestión de ventas: JWT, auditoría con histórico en JSONB, soft-delete, FluentValidation y pruebas con xUnit | `.NET 10` `PostgreSQL` `EF Core` `xUnit` |
 | [**portafolio-frontend**](https://github.com/Alesissss/portafolio-frontend) | SPA que consume la API, con validación de formularios y caché de datos | `React 19` `Vite` `TypeScript` `TanStack Query` `Zod` |
 | **VigilanceAI** *(tesis)* | Sistema **embebido multimodal de apoyo a la decisión**: evalúa a un operador antes de una tarea crítica y emite un dictamen **APTO / ATENCIÓN / NO APTO**. Tres módulos desacoplados por API REST (visión conductual, señales fisiológicas y fusión tardía), desplegable en edge. Detecté *data leakage* por sujeto en la métrica habitual de la literatura y publiqué solo el modelo honesto. | `PyTorch` `MediaPipe` `FastAPI` `PostgreSQL` `React` `Raspberry Pi 5` `Arduino` |
 | **Turifast** | App móvil que genera itinerarios de viaje personalizados con IA para turistas en Lambayeque. Proyecto en equipo: migré el backend de Flask a FastAPI. | `Python` `FastAPI` `IA` |
